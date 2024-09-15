@@ -10,7 +10,7 @@ package TugasPertemuan3_No2;
  */
 public class KonversiSuhu {
     public double celciusToFahrenheit(double celcius){
-        return (celcius * 9/5)+32;
+        return (celcius * 9/5) + 32;
     }
 
     public double celciusToReamur(double celcius){
